@@ -11,7 +11,7 @@ import { Link } from "react-router-dom";
 // ================= HERO SLIDES =================
 const heroSlides = [
   {
-    image: "../../public/assets/image/hero2.jpg",
+    image: "/assets/image/hero2.jpg",
     alt: "Modern dental treatment",
   },
   {
@@ -20,7 +20,7 @@ const heroSlides = [
     alt: "Modern dental clinic",
   },
   {
-    image: "../../public/assets/image/hero3.jpg",
+    image: "/assets/image/hero3.jpg",
     alt: "Modern dental treatment",
   },
   {
@@ -29,7 +29,7 @@ const heroSlides = [
     alt: "Dentist providing modern dental care",
   },
   {
-    image: "../../public/assets/image/hero1.jpg",
+    image: "/assets/image/hero1.jpg",
     alt: "Modern dental treatment",
   },
   {
