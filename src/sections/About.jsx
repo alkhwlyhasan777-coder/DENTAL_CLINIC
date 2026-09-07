@@ -4,17 +4,17 @@ import { Check, ArrowRight } from "lucide-react";
 
 const doctorSlides = [
   {
-    image: "../../public/assets/image/about1.jpg",
+    image: "/assets/image/about1.jpg",
     alt: "SmileCare dentist inside the clinic",
     name: "Dr. Sarah Ahmed",
   },
   {
-    image: "../../public/assets/image/about2.jpg",
+    image: "/assets/image/about2.jpg",
     alt: "Dentist working with a patient",
     name: "Dr. Omar Hassan",
   },
   {
-    image: "../../public/assets/image/hero2.jpg",
+    image: "/assets/image/hero2.jpg",
     alt: "Experienced dental specialist",
     name: "Dr. Lina Mahmoud",
   },

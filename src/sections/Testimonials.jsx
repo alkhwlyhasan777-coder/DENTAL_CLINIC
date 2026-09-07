@@ -42,8 +42,8 @@ const beforeAfterCases = [
       "A brighter smile with a more even and natural-looking shade.",
     icon: Sparkles,
 
-    before: "../../public/assets/image/before.jpg",
-    after: "../../public/assets/image/after.jpg",
+    before: "/assets/image/before.jpg",
+    after: "/assets/image/after.jpg",
   },
 
   {
@@ -53,8 +53,8 @@ const beforeAfterCases = [
       "Improved tooth shape, symmetry, and smile aesthetics.",
     icon: Smile,
 
-    before: "../../public/assets/image/before2.jpg",
-    after: "../../public/assets/image/after2.jpg",
+    before: "/assets/image/before2.jpg",
+    after: "/assets/image/after2.jpg",
   },
 
   {
@@ -64,8 +64,8 @@ const beforeAfterCases = [
       "A personalized smile makeover designed around the patient's goals.",
     icon: WandSparkles,
 
-    before: "../../public/assets/image/before3.jpg",
-    after: "../../public/assets/image/after3.jpg",
+    before: "/assets/image/before3.jpg",
+    after: "/assets/image/after3.jpg",
   },
 ];
 

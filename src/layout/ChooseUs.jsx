@@ -244,7 +244,7 @@ export default function WhyChooseUs() {
             "
           >
             <img
-              src="../../public/assets/image/choose.jpg"
+              src="/assets/image/choose.jpg"
               alt="SmileCare Dental Clinic"
               className="
                 absolute

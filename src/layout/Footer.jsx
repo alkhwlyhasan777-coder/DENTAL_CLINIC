@@ -107,7 +107,7 @@ export default function Footer() {
                     shadow-[#14B8A6]/10
                   "
                 >
-                  <img src="../../public/assets/image/logo.jpg" alt="SmileCare Dental Clinic"
+                  <img src="/assets/image/logo.jpg" alt="SmileCare Dental Clinic"
                     className="h-14 w-14 rounded-full object-cover"
                     // strokeWidth={2.2}
                   />

@@ -11,19 +11,19 @@ const doctors = [
     name: "Dr. Ahmed Hassan",
     specialty: "General & Cosmetic Dentist",
     experience: "10+ Years Experience",
-    image: "../../public/assets/image/doctor4.jpg",
+    image: "/assets/image/doctor4.jpg",
   },
   {
     name: "Dr. Sara Mohamed",
     specialty: "Orthodontist",
     experience: "8+ Years Experience",
-    image: "../../public/assets/image/doctor2.jpg",
+    image: "/assets/image/doctor2.jpg",
   },
   {
     name: "Dr. Omar Ali",
     specialty: "Implant Specialist",
     experience: "12+ Years Experience",
-    image: "../../public/assets/image/doctor3.jpg",
+    image: "/assets/image/doctor3.jpg",
   },
 ];
 

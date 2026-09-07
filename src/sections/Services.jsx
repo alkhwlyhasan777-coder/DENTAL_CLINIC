@@ -15,42 +15,42 @@ const services = [
     title: "General Dentistry",
     description:
       "Complete dental care to maintain your oral health and prevent future problems.",
-    image: "../../public/assets/image/sercive1.jpg",
+    image: "/assets/image/sercive1.jpg",
     icon: Stethoscope,
   },
   {
     title: "Teeth Whitening",
     description:
       "Brighten your smile with safe and professional teeth whitening treatments.",
-    image: "../../public/assets/image/sercive2.png",
+    image: "/assets/image/sercive2.png",
     icon: Sparkles,
   },
   {
     title: "Cosmetic Dentistry",
     description:
       "Enhance the appearance of your smile with personalized cosmetic treatments.",
-    image: "../../public/assets/image/sercive3.jpg",
+    image: "/assets/image/sercive3.jpg",
     icon: WandSparkles,
   },
   {
     title: "Dental Implants",
     description:
       "Restore missing teeth with natural-looking and long-lasting dental implants.",
-    image: "../../public/assets/image/sercive4.jpg",
+    image: "/assets/image/sercive4.jpg",
     icon: Syringe,
   },
   {
     title: "Orthodontics",
     description:
       "Straighten your teeth and improve your bite with modern orthodontic solutions.",
-    image: "../../public/assets/image/sercive5.jpg",
+    image: "/assets/image/sercive5.jpg",
     icon: Smile,
   },
   {
     title: "Kids Dentistry",
     description:
       "Gentle and friendly dental care designed especially for children.",
-    image: "../../public/assets/image/sercive6.jpg",
+    image: "/assets/image/sercive6.jpg",
     icon: Baby,
   },
 ];
